@@ -21,8 +21,8 @@
 - 👯 Busco colaborar en: Proyectos innovadores relacionados con desarrollo web, aplicaciones móviles, inteligencia artificial o cualquier iniciativa tecnológica que permita aprender y aportar valor en equipo.
 - 🤔 Busco ayuda con: Oportunidades para participar en proyectos del mundo real, mejorar mis competencias técnicas y aprender de profesionales experimentados en la industria del software.
 - 💬 Pregúntame sobre: Mi enfoque hacia la ingeniería de software, mi experiencia como estudiante apasionado por la tecnología y mis objetivos de contribuir a la transformación digital.
-- 📫 Cómo contactarme: Puedes escribirme a través de mi correo electrónico o LinkedIn. ¡Será un placer conectar contigo!
-- 😄 Pronombres: Él/Él.
+- 📫 Cómo contactarme: Puedes escribirme a través de mi correo electrónico "jhoseplamec1417@gmail.com". ¡Será un placer conectar contigo!
+- 😄 Pronombres: Él.
 - ⚡ Dato curioso: Soy peruano, un entusiasta del café y los retos intelectuales. Mi mayor motivación es utilizar la tecnología para resolver problemas concretos y generar un impacto positivo en la sociedad.
 <br>
 
@@ -119,6 +119,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----------
-
-Credit: [CapiJhosep](https://github.com/CapiJhosep)
 
